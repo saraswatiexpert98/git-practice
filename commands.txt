@@ -1,2 +1,9 @@
 this is a practice session 
 adding more commands for practice
+now adding some commands
+git init
+git pull origin <branch name>
+git origin
+git log
+git log --oneline
+
